@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 import { app } from './app';
 
 const start = async () => {
-  console.log('No this is king2');
+  console.log('No this is king 3');
 
   if (!process.env.JWT_KEY) {
     throw new Error('JWT_KEY must be defined');
