@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ticketing-dev-277407",
+  "private_key_id": "9636e7d58131029ee407363b0c2d5ba0e0b911e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDS8A+UGrZ4VVAw\nrPeHIyBHU+VMf8yEkvirXEU6lTCADP7OHoSagAdWpYVW6Yc7Yd2176iWlwix84Xd\n6PrYQv1RGZDAsVq7Lmd70iQPz3531gjzmHyjFX+1B1QuPwTl92U/xLYAorpAJIE0\nI19/VdTxRz36sobrbO4h/59V/9MhMpYozio+lxDA9wPvo8j3gN++B9Tpy6paj3PF\nQlKVKJjaZHSD6A7pHSmh+DxrjqlYD+UHIvnlSn1gdGy+5z57iqA1qs/ASPfV8ygS\nd/f6Gj0a9srtURZaUl8sBzNNdJuGHMo4X/cfSR/vuWU8uym1EELsl8JwRCZut2Ib\nbe5jBh5lAgMBAAECggEAHWsFgS5IjHe5e1BkJSCs+8WjkQuxxjuJGrz/mq/715/4\nWV7AN5vrahYjhn+DMLDxbtJBvN7Lg6Xm4ZAAi/Cry4e5PGZ/tOM/43DnPp09khDz\npqV5nHT/HowrHVgEot3h7QbOK0CGoTN2IYNdajDaRdwdtLz5PBQxEeTIoAHRvCtF\nGseAdorb2W+6B8icGyoF1rw28LTTw09UFzY4FlriqyUKVKLgS9ZK/J6x2quuj/3x\nQa9tmtm55EfsTA4sSCS+MdgZwAMKse/NKPvYkh33ckOblU7V6c+wPA0nChXghnPd\nIUyHxBTIrgJqg0lcacDhKZCNSpH1vyBSPLroMqM1AQKBgQDr0NF3/UZkxwX2q9dY\nHZdtWP2tWyCgNXzDSMGQIlgzhpH7tdt49HDqo5jM64mT3gRvignGvodw9rh/yx/B\nh4TMcDVc77aWUFGh0GzefQBrmUZ+MuXTUdpq3ZUpx8g0aA033ZL+D15eWBRhtelO\nX519K4kTv3sluTfYjFWUfGTZ1QKBgQDk/h43S6Qu0zB6gz+dq+r8vJfxpIV+qEqc\nlcIYea1M2NDcsXJJlXuLNTkM3vuGwNY1FDboskOk1iIV2HxNnAvsdWbIhLOxChk0\nAJY0GRg0w14gVjEjMm/Um5lGYOZ50WsBA0E8RBwkcOfiUQvmOdn8seJ16dT7TQYN\nnmlwQ79qUQKBgHZSzQgb+dpPUtq21tLL5lNjt8XoV7KLpBKIyzb7RK5184INehZy\n8MWLWPxZoyqi2C7vYIBs0aEI6wKUdVayHRxHoT8EuOUrYAqFflsU9cUHn6tq9o7W\nH3ZHwLS6HebN3vQNJdh89aj5ISD2Gh7NM0S/N4TFK5F+Iltx7u8Wi7QRAoGBAISP\nHoq//PEmTB//rmnlxYg83HCD3sttPJPclZl5hnq/4FiBWDmEkRoK21W6FzzwkI/1\nfbvCxim708t1oK+Er9pYNAHL4AGSaPiThl/uTvbsSabKfnNzlQ0sbdQx7/mA40KY\n0cDDZM8rlPCMHilOQARqLUA49pPrCKAFnd/hOAOhAoGABFatc/txPF98J64kgO3r\nSRdU2T/El7D7fLc0X99Jtz6HQ4fyX+VJ75N2P+Xxl88Xa3+GpmPva1fwmvftyoIo\no3yWKguTGamh4erTIROyXrnUu6drMV+0YbTbgnZo9zu5CVN+RliI1hUZK+rB/Jh1\nmd/QjLcHCjSybsj2EBmxXBg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "anhaemin@ticketing-dev-277407.iam.gserviceaccount.com",
+  "client_id": "111325202792730928253",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anhaemin%40ticketing-dev-277407.iam.gserviceaccount.com"
+}
