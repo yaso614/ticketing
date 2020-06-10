@@ -25,7 +25,7 @@ spec:
           - path: /api/orders/?(.*)
             backend:
               serviceName: orders-srv
-              servicePort: 3000
+              servicePort: 30000
           - path: /?(.*)
             backend:
               serviceName: client-srv
